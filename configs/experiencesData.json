@@ -1,0 +1,28 @@
+[
+  {
+    "pos": { "x": 150, "y": -100 },
+    "cardHeight": 260,
+    "roleData": {
+      "title": "Fullstack Developer",
+      "description": "Render IT Supports and Enhanced interactive design platform by building and optimizing prototyping tools, empowering designers to create high-performance experiences and bridging the gap between design and development.",
+      "company": {
+        "name": "BEDC PLC",
+        "startDate": "2020",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 150, "y": 180 },
+    "cardHeight": 260,
+    "roleData": {
+      "title": "Freelance Software Engineer",
+      "description": "Improved real-time design collaboration tool by developing new components and refining existing features, enhancing workflow efficiency and creativity for design teams worldwide.",
+      "company": {
+        "name": "GeniusWorld ENT",
+        "startDate": "2015",
+        "endDate": "2020"
+      }
+    }
+  }
+]

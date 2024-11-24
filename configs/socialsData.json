@@ -1,0 +1,52 @@
+[
+  {
+    "pos": { "x": 300, "y": 250 },
+    "name": "GitHub",
+    "description": "GitHub is where I host my projects.",
+    "link": "https://github.com/ogaluechibueze",
+    "logoData": { "name": "github-logo", "width": 228.6, "height": 179.5 }
+  },
+  {
+    "pos": { "x": 500, "y": 250 },
+    "name": "LinkedIn",
+    "description": "see more of my professional experiences on JavaScript and TypeScript Applications .",
+    "link": "https://www.linkedin.com/in/engr-chibueze-ogalue/",
+    "logoData": {
+      "name": "linkedin-logo",
+      "width": 160,
+      "height": 110
+    }
+  },
+  {
+    "pos": { "x": 700, "y": 250 },
+    "name": "X",
+    "description": "Here is my X/Twitter, shows more of my soft skills.",
+    "link": "https://x.com/GeniusWorldOCD",
+    "logoData": {
+      "name": "x-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 900, "y": 250 },
+    "name": "Portfolio",
+    "description": "Showcase more of my Projects and Certifications.",
+    "link": "https://ogaluechibueze.github.io/ogalue-demian-portfolio/",
+    "logoData": {
+      "name": "genius-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1100, "y": 250 },
+    "name": "Email",
+    "address": "ogaluechibueze@yahoo.com",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]
