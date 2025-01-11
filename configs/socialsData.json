@@ -41,6 +41,17 @@
   },
   {
     "pos": { "x": 1100, "y": 250 },
+    "name": "Youtube",
+    "description": "Follow us on our youtube to watch videos on making all our projects and many more.",
+    "link": "https://www.youtube.com/@geniusworldOCD",
+    "logoData": {
+      "name": "youtube",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1300, "y": 250 },
     "name": "Email",
     "address": "ogaluechibueze@yahoo.com",
     "logoData": {
