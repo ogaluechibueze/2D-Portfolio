@@ -20,7 +20,7 @@ export default function CameraController() {
           }
         }}
       >
-      Zoom In
+      +
       </button>
   
       <button
@@ -35,7 +35,7 @@ export default function CameraController() {
           }
         }}
       >
-        Zoom Out
+        -
       </button>
     </div>
   );
