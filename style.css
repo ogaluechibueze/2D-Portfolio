@@ -124,7 +124,7 @@ p {
   top: 3vh;
   left: 5vw;
   opacity: 1;
-  font-size: 1rem;
+  font-size: 0.8rem;
   max-width: 40vw;
   user-select: none;
   display: flex;
