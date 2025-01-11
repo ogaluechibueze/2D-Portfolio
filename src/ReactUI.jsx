@@ -7,8 +7,8 @@ export default function ReactUI() {
   return (
     <>
        <div className="controls-message">
-      <p className="">Tap/Click around to move</p>
-      <img src="genius.png" alt="GeniusWorld" width="200px" height="200px"/>
+      <p className="">Tap or Click around to move</p>
+      <img src="logo4.png" alt="GeniusWorld" width="100px" height="60px"/>
       </div>
       <CameraController />
       <SocialModal />

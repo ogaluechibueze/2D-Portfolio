@@ -39,6 +39,25 @@
   },
   {
     "pos": { "x": 0, "y": 1320 },
+    "thumbnail": "event",
+    "data": {
+      "title": "Meeting Scheduling application",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "https://genius-candely.vercel.app/"
+        },
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://genius-candely.vercel.app/"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1810 },
     "thumbnail": "chatgpt",
     "data": {
       "title": "JavaScript ChatGPT application",

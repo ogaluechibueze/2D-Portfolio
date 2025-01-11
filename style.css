@@ -104,14 +104,15 @@ p {
 }
 
 .camera-controller-btn {
-  color: red;
+  color: beige;
   background-color: var(--color1);
   border: red ;
+  font:bolder;
   border-style: solid;
   border-radius: 12px;
-  font-size: 2rem;
-  width: 12vw;
-  opacity: 0.4;
+  font-size: 1.2rem;
+  width: 10vw;
+  opacity: 0.7;
 }
 
 .camera-controller-btn:active {
@@ -123,10 +124,12 @@ p {
   top: 3vh;
   left: 5vw;
   opacity: 1;
-  font-size: 1.2rem;
+  font-size: 1rem;
   max-width: 40vw;
   user-select: none;
   display: flex;
+  gap: 2rem;
+
   
 }
 

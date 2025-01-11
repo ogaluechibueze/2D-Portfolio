@@ -55,6 +55,7 @@ export default async function initGame() {
   k.loadSprite("mongodb", "./logos/mongodb.png");
   k.loadSprite("mysql", "./logos/mysql.jpg");
   k.loadSprite("PowerAppsLogo", "./logos/PowerAppsLogo.png");
+  k.loadSprite("youtube", "./logos/youtube-logo.png");
   k.loadSprite("Vitejs", "./logos/Vitejs.png");
   k.loadSprite("typescript-logo", "./logos/ts-logo.png");
   k.loadSprite("react-logo", "./logos/react-logo.png");
@@ -68,16 +69,17 @@ export default async function initGame() {
   k.loadSprite("geniusbuy", "./projects/geniusbuy.png");
   k.loadSprite("geniussocial", "./projects/geniussocial.png");
   k.loadSprite("chatgpt", "./projects/chatgpt.png");
+  k.loadSprite("event", "./projects/event.png");
   k.loadShaderURL("tiledPattern", null, "./shaders/tiledPattern.frag");
 
   const setInitCamZoomValue = () => {
     if (k.width() < 1000) {
       k.camScale(k.vec2(0.5));
-      store.set(cameraZoomValueAtom, 0.5);
+      store.set(cameraZoomValueAtom, 0.3);
       return;
     }
     k.camScale(k.vec2(0.5));
-    store.set(cameraZoomValueAtom, 0.5);
+    store.set(cameraZoomValueAtom, 0.3);
   };
   setInitCamZoomValue();
 

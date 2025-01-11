@@ -20,8 +20,9 @@ export default function CameraController() {
           }
         }}
       >
-        +
+      Zoom In
       </button>
+  
       <button
         className="camera-controller-btn"
         onClick={() => {
@@ -34,7 +35,7 @@ export default function CameraController() {
           }
         }}
       >
-        -
+        Zoom Out
       </button>
     </div>
   );
