@@ -37,6 +37,7 @@ export default function CameraController() {
       >
         -
       </button>
+      
     </div>
   );
 }
